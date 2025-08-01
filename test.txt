@@ -9,7 +9,7 @@
 "check_session_iframe": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse/protocol/openid-connect/login-status-iframe.html",
 "grant_types_supported": [
 "authorization_code",
-"implicit",
+"implicit",s
 "refresh_token",
 "password",
 "client_credentials",

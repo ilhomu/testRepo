@@ -7,7 +7,7 @@
 "end_session_endpoint": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse/protocol/openid-connect/logout",
 "jwks_uri": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse/protocol/openid-connect/certs",
 "check_session_iframe": "https://dev.gitverse.works.sbertech.ru/auth/realms/GitVerse/protocol/openid-connect/login-status-iframe.html",
-"grant_types_supported": [
+"grant_types_supporte1d": [
 "authorization_code",
 "implicit",
 "refresh_token",
